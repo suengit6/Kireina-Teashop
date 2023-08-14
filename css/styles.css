@@ -1,0 +1,38 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    font-family: 'poppins';
+}
+body{
+    background-image: url("https://raw.githubusercontent.com/suengit6/activity-images/main/webp/pexels-leah-kelley-341514.webp");
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.25rem;
+}
+a{
+    color: red;
+    text-decoration: none;
+}
+.teaIcon{
+    height: 50px;
+    width: 50px;
+    margin-top: 20px
+}
+main{
+    background-color: rgba(255, 209, 173, 0.6);
+    width: 50%;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+}
+article {
+    display: flex;
+    justify-content: space-around;
+    padding: 10px 0;
+}
+section{
+    margin-bottom: 20px;
+}
